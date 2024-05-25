@@ -18,6 +18,14 @@ Here are some key visualizations from the analysis:
 
 1. Gender analysis - who is buying more Male or Female
    ![image](https://github.com/Yajat541/sales-analysis/assets/67373208/55120d6c-1432-489c-b79d-2218d6a62a15)
+2. Age Group analysis - which age people are buying products
+   ![image](https://github.com/Yajat541/sales-analysis/assets/67373208/d2704ccc-cb9e-4532-b44f-8f6fb1067241)
+3. State analysis- Top 10 states where the products are sold more
+   ![image](https://github.com/Yajat541/sales-analysis/assets/67373208/8d586e91-f783-4445-a50e-58c03a2448e2)
+4. Occupuation - which sector people are buying more
+   ![image](https://github.com/Yajat541/sales-analysis/assets/67373208/aadececc-c309-4791-b26b-877ea7688ea6)
+5. Product_category - which product is sold more
+   ![image](https://github.com/Yajat541/sales-analysis/assets/67373208/90768908-65f5-4bff-928e-0f51f529e770)
 
 ## Sales Analysis Project Summary
 
@@ -40,7 +48,7 @@ Renamed columns for clarity.
 Exploratory Data Analysis (EDA)
 Performed EDA on key performance indicator (KPI) columns to gain insights into sales patterns:
 
-Gender Analysis:
+# Gender Analysis:
 
 Plotted the count of transactions by gender.
 Analyzed total sales amount by gender.
