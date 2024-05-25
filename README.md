@@ -13,6 +13,12 @@ Python 3.x - You can download and install Python from here.
 Jupyter Notebook - For interactive data analysis. Install it using pip - pip install notebook
 and pip install pandas numpy matplotlib seaborn
 
+# Visualizations
+Here are some key visualizations from the analysis:
+
+1. Gender analysis - who is buying more Male or Female
+   ![image](https://github.com/Yajat541/sales-analysis/assets/67373208/55120d6c-1432-489c-b79d-2218d6a62a15)
+
 ## Sales Analysis Project Summary
 
 # Data Loading and Cleaning
